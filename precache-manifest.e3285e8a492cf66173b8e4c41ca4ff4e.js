@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9edb882340373ffeb75e1ae791719872",
+    "revision": "5a22cf5d9ae1398752c5367e231b6a1c",
     "url": "/index.html"
   },
   {
-    "revision": "d09b12ee64389bc2ea32",
-    "url": "/static/css/main.f398539f.chunk.css"
+    "revision": "0eb999045e6b4430dc2e",
+    "url": "/static/css/main.2812e00a.chunk.css"
   },
   {
-    "revision": "4b0b3ca82366e78fde3f",
-    "url": "/static/js/2.d823fc6b.chunk.js"
+    "revision": "f7d9dcb9a6ab3e8350e0",
+    "url": "/static/js/2.841f3a6a.chunk.js"
   },
   {
     "revision": "4c25d06d95384d1d9cff7a908ed8d725",
-    "url": "/static/js/2.d823fc6b.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.841f3a6a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d09b12ee64389bc2ea32",
-    "url": "/static/js/main.40d04716.chunk.js"
+    "revision": "0eb999045e6b4430dc2e",
+    "url": "/static/js/main.8a62bfdb.chunk.js"
   },
   {
     "revision": "8b906cca1f2a652d20a8",
@@ -82,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "404ae7bc061a03e399daa61344c78566",
     "url": "/static/media/cwoc.404ae7bc.png"
+  },
+  {
+    "revision": "445adedccb2bb3ceea5d9afe6ffc9e15",
+    "url": "/static/media/deeplearningai.445adedc.png"
   },
   {
     "revision": "82473004d117a65c8ed30396c6299763",
@@ -254,6 +258,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "894ef0fc8dfe1c0ab658636b806049db",
     "url": "/static/media/ssgandhy.894ef0fc.png"
+  },
+  {
+    "revision": "116ba439e6270af884a782bee2269350",
+    "url": "/static/media/stanforduniversity.116ba439.png"
   },
   {
     "revision": "eecd1b2bb2e04775d2ac45a0ae4b8f50",
