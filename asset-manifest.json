@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.da4beaf0.chunk.css",
-    "main.js": "/static/js/main.f0c37ab0.chunk.js",
-    "main.js.map": "/static/js/main.f0c37ab0.chunk.js.map",
+    "main.css": "/static/css/main.2a0f3540.chunk.css",
+    "main.js": "/static/js/main.88d98ddc.chunk.js",
+    "main.js.map": "/static/js/main.88d98ddc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3fdae03d.js",
     "runtime-main.js.map": "/static/js/runtime-main.3fdae03d.js.map",
     "static/css/2.80f479d8.chunk.css": "/static/css/2.80f479d8.chunk.css",
-    "static/js/2.266ae59e.chunk.js": "/static/js/2.266ae59e.chunk.js",
-    "static/js/2.266ae59e.chunk.js.map": "/static/js/2.266ae59e.chunk.js.map",
+    "static/js/2.e0445fce.chunk.js": "/static/js/2.e0445fce.chunk.js",
+    "static/js/2.e0445fce.chunk.js.map": "/static/js/2.e0445fce.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f45036a27561e6f7cd6478cdfde28414.js": "/precache-manifest.f45036a27561e6f7cd6478cdfde28414.js",
+    "precache-manifest.f6cd4c6d7f31878c1b2da9c0b1fe4420.js": "/precache-manifest.f6cd4c6d7f31878c1b2da9c0b1fe4420.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.80f479d8.chunk.css.map": "/static/css/2.80f479d8.chunk.css.map",
-    "static/css/main.da4beaf0.chunk.css.map": "/static/css/main.da4beaf0.chunk.css.map",
-    "static/js/2.266ae59e.chunk.js.LICENSE.txt": "/static/js/2.266ae59e.chunk.js.LICENSE.txt",
+    "static/css/main.2a0f3540.chunk.css.map": "/static/css/main.2a0f3540.chunk.css.map",
+    "static/js/2.e0445fce.chunk.js.LICENSE.txt": "/static/js/2.e0445fce.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/IELTS.png": "/static/media/IELTS.06d4b284.png",
     "static/media/avatar.jpg": "/static/media/avatar.745d612c.jpg",
@@ -37,6 +37,7 @@
     "static/media/hackathon1.svg": "/static/media/hackathon1.f7288055.svg",
     "static/media/iit.png": "/static/media/iit.36d7942a.png",
     "static/media/ino.png": "/static/media/ino.ccf88661.png",
+    "static/media/letter-m.png": "/static/media/letter-m.d6fe078b.png",
     "static/media/linkedin.png": "/static/media/linkedin.5116c7b9.png",
     "static/media/localguide.gif": "/static/media/localguide.847873a8.gif",
     "static/media/localguide.png": "/static/media/localguide.b7f903d7.png",
@@ -59,8 +60,8 @@
   "entrypoints": [
     "static/js/runtime-main.3fdae03d.js",
     "static/css/2.80f479d8.chunk.css",
-    "static/js/2.266ae59e.chunk.js",
-    "static/css/main.da4beaf0.chunk.css",
-    "static/js/main.f0c37ab0.chunk.js"
+    "static/js/2.e0445fce.chunk.js",
+    "static/css/main.2a0f3540.chunk.css",
+    "static/js/main.88d98ddc.chunk.js"
   ]
 }
